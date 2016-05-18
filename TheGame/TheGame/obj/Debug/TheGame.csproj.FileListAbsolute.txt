@@ -1,0 +1,2 @@
+C:\Users\Nutrient\AppData\Local\Temporary Projects\TheGame\bin\Debug\TheGame.exe.config
+C:\Users\Nutrient\Desktop\Team Projects\Sprites_Team_Up_Game\TheGame\TheGame\bin\Debug\TheGame.exe.config
