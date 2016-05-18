@@ -1,5 +1,5 @@
 # Zelda_4_Swords_Like_Game
-# COMO CAMBIARTE DE BRANCH
+ COMO CAMBIARTE DE BRANCH
 #
 # En el Git Shell: git checkout [nombre branch]
 # COMO ACTUALIZAR TU CARPETA
